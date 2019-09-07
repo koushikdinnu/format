@@ -1,0 +1,17 @@
+qpa - 2
+pf with code - 1
+bdd - 10
+java - 18
+spring - 12
+web basics - 3
+jpa with hiberbate - 2
+ang - 3
+ intro to se - 2
+ oracle - 2
+ ang2 - 2
+ts-1
+developer tools - 1
+ servlets - 1
+
+
+
